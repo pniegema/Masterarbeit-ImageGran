@@ -1,0 +1,45 @@
+# Masterarbeit-ImageGran – Supplementäre Videos
+
+Dieses Repository enthält **supplementäre Videos** zu meiner Masterarbeit **ImageGran: Granulare audio-visuelle Kontrolle
+zur Animation von Bildern** im Bereich **Talking Head Generation mit granularer Audio-visueller Kontrolle**.  
+Die Videos dokumentieren die Ergebnisse verschiedener Modellvarianten und Trainingsansätze, die im Rahmen der Arbeit entwickelt und evaluiert wurden.
+
+---
+
+## 📂 Ordnerstruktur
+
+| Ordnername | Beschreibung |
+|-------------|---------------|
+| **CNN-basiert-GRID** | Ergebnisse aus Abschnitt 4.5 von CNN-basierten Modellen, die auf dem GRID-Datensatz trainiert wurden. |
+| **CNN-basiert-HDTF-CelebV-HQ** | Videos aus Abschnitt 5.7 von CNN-Modellen, trainiert auf HDTF und CelebV-HQ Datensätzen. |
+| **CNN-basiert-TH1kH** | Ergebnisse aus Abschnitt 5.5 von CNN-basierten Modellen auf dem TalkingHead-1KH-Datensatz. |
+| **ImageGran-Adversarial** | Ergebnisse aus Abschnit 7.3 mit adversarial trainiertem Modelle (GAN-Ansatz) zur Verbesserung der Details. |
+| **ImageGran-Compositing** | Ergebnisse aus Abschnitt 7.2 mit eingefügtem Hintergrund. |
+| **ImageGran-Rekonstruktiv** | Ergebnisse zu Abschnit 7.3 des rein rekonstruktiv trainiertem Modelles. |
+| **Style-basiert** | Ergebnisse aus Abschnit 6.3 des stylebasierten Modelle (z. B. mit StyleGAN-ähnlicher Architektur). |
+
+---
+
+## 🎯 Zweck
+
+Die Videos dienen der **qualitativen Analyse** der unterschiedlichen Modellansätze und illustrieren die in der Masterarbeit beschriebenen Ergebnisse.
+
+Sie werden genutzt für:
+
+- den Vergleich der Modelle hinsichtlich Ausdruckstreue, Lippen-Synchronität und Identitätserhalt,  
+- die Visualisierung von Trainingsergebnissen verschiedener Architekturen,  
+- und als ergänzendes Material zur schriftlichen Arbeit.
+
+---
+
+## ℹ Hinweise
+
+- Dieses Repository enthält **ausschließlich Videos** (keine Trainingsdaten, Modelle oder Quellcodes).  
+- Die zugrundeliegenden Datensätze (z. B. GRID, HDTF, CelebV-HQ, TalkingHead-1KH) unterliegen eigenen Lizenzbestimmungen.  
+- Die Dateien dienen ausschließlich der wissenschaftlichen Dokumentation im Rahmen der Masterarbeit.
+
+---
+
+**Autor:** Paul Niegemann  
+**Universität:** Johannes Gutenberg Universität Mainz 
+**Jahr:** 2025
