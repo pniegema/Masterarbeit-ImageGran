@@ -10,13 +10,13 @@ Die Videos dokumentieren die Ergebnisse verschiedener Modellvarianten und Traini
 
 | Ordnername | Beschreibung |
 |-------------|---------------|
-| **CNN-basiert-GRID** | Ergebnisse aus Abschnitt 4.5 von CNN-basierten Modellen, die auf dem GRID-Datensatz trainiert wurden. |
-| **CNN-basiert-HDTF-CelebV-HQ** | Videos aus Abschnitt 5.7 von CNN-Modellen, trainiert auf HDTF und CelebV-HQ Datensätzen. |
-| **CNN-basiert-TH1kH** | Ergebnisse aus Abschnitt 5.5 von CNN-basierten Modellen auf dem TalkingHead-1KH-Datensatz. |
-| **ImageGran-Adversarial** | Ergebnisse aus Abschnit 7.3 mit adversarial trainiertem Modelle (GAN-Ansatz) zur Verbesserung der Details. |
-| **ImageGran-Compositing** | Ergebnisse aus Abschnitt 7.2 mit eingefügtem Hintergrund. |
-| **ImageGran-Rekonstruktiv** | Ergebnisse zu Abschnit 7.3 des rein rekonstruktiv trainiertem Modelles. |
-| **Style-basiert** | Ergebnisse aus Abschnit 6.3 des stylebasierten Modelle (z. B. mit StyleGAN-ähnlicher Architektur). |
+| **CNN-basiert-GRID** | Videos zu Abschnitt 4.5 von CNN-basierten Modellen, die auf dem GRID-Datensatz trainiert wurden. |
+| **CNN-basiert-HDTF-CelebV-HQ** | Videos zu Abschnitt 5.7 von CNN-Modellen, trainiert auf HDTF und CelebV-HQ Datensätzen. |
+| **CNN-basiert-TH1kH** | Videos zu Abschnitt 5.5 von CNN-basierten Modellen auf dem TalkingHead-1KH-Datensatz. |
+| **ImageGran-Adversarial** | Videos zu Abschnit 7.3 mit adversarial trainiertem Modelle (GAN-Ansatz) zur Verbesserung der Details. |
+| **ImageGran-Compositing** | Videos zu Abschnitt 7.2 mit eingefügtem Hintergrund. |
+| **ImageGran-Rekonstruktiv** | Videos zu Abschnit 7.3 des rein rekonstruktiv trainiertem Modelles. |
+| **Style-basiert** | Videos zu Abschnit 6.3 des stylebasierten Modelle (z. B. mit StyleGAN-ähnlicher Architektur). |
 
 ---
 
@@ -41,5 +41,5 @@ Sie werden genutzt für:
 ---
 
 **Autor:** Paul Niegemann  
-**Universität:** Johannes Gutenberg Universität Mainz 
+**Universität:** Johannes Gutenberg Universität Mainz  
 **Jahr:** 2025
