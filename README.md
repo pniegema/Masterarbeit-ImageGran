@@ -20,6 +20,19 @@ Die Videos dokumentieren die Ergebnisse verschiedener Modellvarianten und Traini
 
 ---
 
+### GRID Video 1
+<video controls width="640">
+  <source src="CNN-basiert-GRID/video1.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
+### GRID Video 2
+<video controls width="640">
+  <source src="CNN-basiert-GRID/video2.mp4" type="video/mp4">
+</video>
+
+---
+
 ## 🎯 Zweck
 
 Die Videos dienen der **qualitativen Analyse** der unterschiedlichen Modellansätze und illustrieren die in der Masterarbeit beschriebenen Ergebnisse.
