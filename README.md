@@ -1,7 +1,7 @@
 # Masterarbeit-ImageGran – Supplementäre Videos
 
-Dieses Repository enthält **supplementäre Videos** zu meiner Masterarbeit **ImageGran: Granulare audio-visuelle Kontrolle
-zur Animation von Bildern** im Bereich **Talking Head Generation mit granularer Audio-visueller Kontrolle**.  
+Dieses Repository enthält **supplementäre Videos** zu meiner Masterarbeit **Building ImageGran: An Evolutionary Approach
+to High-Quality Talking Head Synthesis with Disentangled Control**.  
 Die Videos dokumentieren die Ergebnisse verschiedener Modellvarianten und Trainingsansätze, die im Rahmen der Arbeit entwickelt und evaluiert wurden.
 
 ---
